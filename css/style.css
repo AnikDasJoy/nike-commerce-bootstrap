@@ -11,6 +11,11 @@
     color: #FFF9F4;
 }
 
+.bg-orange-color:hover {
+    background-color: black;
+    color: #FFF9F4;
+}
+
 .image-bg {
     background-color: #f1f1f1;
 }
